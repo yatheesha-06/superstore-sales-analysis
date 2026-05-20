@@ -65,14 +65,10 @@ The project includes:
 ---
 
 ## 📷 Dashboard Preview
-(Add dashboard screenshot here)
-
----
+<img width="1892" height="1007" alt="Screenshot 2026-05-20 104909" src="https://github.com/user-attachments/assets/c02505e0-1c09-4425-beac-a3ab7c121ffa" />
 
 ## 👨‍💻 Author
-Your Name
-
----
+cheepurupalli yatheesha
 
 ## ⭐ Conclusion
 This project demonstrates practical skills in data analysis, dashboard creation, data visualization, and business insight generation using Excel and Python.
